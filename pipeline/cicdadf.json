@@ -4,7 +4,7 @@
 		"activities": [
 			{
 				"name": "cpdatagit-dev",
-				"description": "dev adf ",
+				"description": "dev adf testing ",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
