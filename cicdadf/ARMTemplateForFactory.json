@@ -32,6 +32,7 @@
 				"activities": [
 					{
 						"name": "cpdatagit-dev",
+						"description": "dev adf ",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
