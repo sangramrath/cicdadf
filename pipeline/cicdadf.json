@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "cpdatagit",
+				"name": "cpdatagit-dev",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
